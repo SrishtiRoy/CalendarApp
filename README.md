@@ -1,1 +1,1 @@
-# CalendarApp
+Calendar App with weather forecast and agenda integration

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue50">#f1c40f</color>
+    <color name="cyan50">#1abc9c</color>
+    <color name="green50">#2ecc71</color>
+    <color name="yellow50">#d35400</color>
+    <color name="red50">#9b59b6</color>
+    <color name="blue500">#2196F3</color>
+    <color name="blue700">#1976D2</color>
+    <color name="greenA700">#4399CD</color>
+    <color name="colorDivider">#1F000000</color>
+
+</resources>
